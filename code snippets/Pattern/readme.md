@@ -1,0 +1,1 @@
+Write a Python program, pattern.py, which reads in a positive integer n and writes out a pattern of n lines, where each line no. i contains i consecutive numbers in the range 1 to i (with a single space between each number).
