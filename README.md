@@ -1,3 +1,3 @@
 # Python Practice
-practice different algorithms and data structure 
+practice different algorithms with data structure 
 and Simple Tasks i Solve
